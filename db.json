@@ -202,7 +202,20 @@
     "pCardCredit": "Kredisi",
     "pCardFree": "Ücretsiz",
     "pCardShipping": "Kargo",
-    "oTitle": "Kaçırılmayacak Fırsatlar"
+    "oTitle": "Kaçırılmayacak Fırsatlar",
+    "wuTop1": "Akıllı telefondan elektrikli süpürgeye, hobi ürünlerinden akıllı saatlere binlerce çeşit elektronik ürünü Turkcell Pasaj güvencesi ve Turkcell",
+    "wuTop2": "Pasaj ayrıcalığıyla keşfedin.",
+    "wuBox1Title": "Hızlı ve Kolay Teslimat",
+    "wuBox1": "Siparişiniz isterseniz gün içinde gelsin,",
+    "wuBox12": "isterseniz bir tıkla gelin ve mağazadan",
+    "wuBox13": "teslim alın.",
+    "wuBox2Title": "Esnek Ödeme Seçenekleri",
+    "wuBox2": "Alışverişlerinizi ister kredi kartınıza",
+    "wuBox22": "taksitlendirin ister Turkcell faturanıza ek, 36",
+    "wuBox23": "aya varan vade imkanından faydalanın.",
+    "wuBox3Title": "Ücretsiz İptal ve İade",
+    "wuBox3": "Ürünlerinizi kolayca ve hiçbir ücret",
+    "wuBox32": "ödemeden iptal ve iade edebilirsiniz."
   },
   "cms-en": {
     "htFav": "My Favourites",
@@ -243,6 +256,15 @@
     "pCardCredit": "Credit",
     "pCardFree": "Free",
     "pCardShipping": "Shipping",
-    "oTitle": "Unmissable Opportunities"
+    "oTitle": "Unmissable Opportunities",
+    "wuTop1": "Discover thousands of electronic products from smartphones to vacuum cleaners, hobby products to smart watches with Turkcell Pasaj assurance and",
+    "wuTop2": "Turkcell Pasaj privilege.",
+    "wuBox1Title": "Fast and Easy Delivery",
+    "wuBox1": "Your order can be delivered within the day,",
+    "wuBox12": "or you can come and pick it up at the store",
+    "wuBox13": "with a click of a button.",
+    "wuBox3Title": "Free Cancellation and Refund",
+    "wuBox3": "You can cancel and return your products",
+    "wuBox32": "easily and at no cost."
   }
 }
