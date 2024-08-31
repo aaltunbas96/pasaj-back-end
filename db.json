@@ -185,7 +185,18 @@
     "cat7": "TV-Ses Sistemleri",
     "cat8": "Ev-Yaşam",
     "cat9": "Anne-Bebek-Oyuncak",
-    "hsButton": "İncele"
+    "hsButton": "İncele",
+    "pcTitle": "Popüler Kategoriler",
+    "pc1": "Hediye Çeklerim",
+    "pc2": "En Çok Favorilenenler",
+    "pc3": "Fırsatlar Kapısı",
+    "pc4": "Çok Satanlar",
+    "pc5": "Kulaklıklar",
+    "pc6": "Apple Telefonlar",
+    "pc7": "Powerbank",
+    "pc8": "Kahve Makineleri",
+    "pc9": "Apple Tabletler",
+    "pc10": "Bilgisayarlar"
   },
   "cms-en": {
     "htFav": "My Favourites",
@@ -209,6 +220,17 @@
     "cat7": "TV-Audio Systems",
     "cat8": "Home-Life",
     "cat9": "Mommy-Baby-Toy",
-    "hsButton": "Review"
+    "hsButton": "Review",
+    "pcTitle": "Popular Categories",
+    "pc1": "My Gift Cards",
+    "pc2": "Most Favourites",
+    "pc3": "Opportunities Gate",
+    "pc4": "Bestsellers",
+    "pc5": "Headphones",
+    "pc6": "Apple Phones",
+    "pc7": "Powerbank",
+    "pc8": "Coffee Makers",
+    "pc9": "Apple Tablets",
+    "pc10": "Computers"
   }
 }
