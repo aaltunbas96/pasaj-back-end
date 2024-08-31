@@ -201,7 +201,8 @@
     "pCardShopping": "Alışveriş",
     "pCardCredit": "Kredisi",
     "pCardFree": "Ücretsiz",
-    "pCardShipping": "Kargo"
+    "pCardShipping": "Kargo",
+    "oTitle": "Kaçırılmayacak Fırsatlar"
   },
   "cms-en": {
     "htFav": "My Favourites",
@@ -241,6 +242,7 @@
     "pCardShopping": "Shopping",
     "pCardCredit": "Credit",
     "pCardFree": "Free",
-    "pCardShipping": "Shipping"
+    "pCardShipping": "Shipping",
+    "oTitle": "Unmissable Opportunities"
   }
 }
