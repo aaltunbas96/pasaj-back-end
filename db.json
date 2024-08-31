@@ -163,6 +163,6 @@
       "category": "Beyaz Eşya"
     }
   ],
-  "cms": [{ "title": "başlık" }],
-  "cms-en": [{ "title": "title" }]
+  "cms": { "title": "başlık" },
+  "cms-en": { "title": "title" }
 }
