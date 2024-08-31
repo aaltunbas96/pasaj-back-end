@@ -172,7 +172,16 @@
     "htOrder": "Sipariş Sorgulama",
     "searchAreaPlaceholder": "Ürün, marka veya kategori ara",
     "loginPlaceholder": "Giriş Yap",
-    "basketPlaceholder": "Sepet"
+    "basketPlaceholder": "Sepet",
+    "cat1": "Cep Telefonu-Aksesuar",
+    "cat2": "Bilgisayar-Tablet",
+    "cat3": "Elektrikli Ev Aletleri",
+    "cat4": "Beyaz Eşya",
+    "cat5": "Sağlık-Kişisel Bakım",
+    "cat6": "Hobi-Oyun",
+    "cat7": "TV-Ses Sistemleri",
+    "cat8": "Ev-Yaşam",
+    "cat9": "Anne-Bebek-Oyuncak"
   },
   "cms-en": {
     "htFav": "My Favourites",
@@ -183,6 +192,15 @@
     "htOrder": "Order Inquiry",
     "searchAreaPlaceholder": "Search products, brands or categories",
     "loginPlaceholder": "Login",
-    "basketPlaceholder": "Basket"
+    "basketPlaceholder": "Basket",
+    "cat1": "Mobile Phone-Accessory",
+    "cat2": "Computer-Tablet",
+    "cat3": "Electrical Home Appliances",
+    "cat4": "White Goods",
+    "cat5": "Health-Personal Care",
+    "cat6": "Hobby-Game",
+    "cat7": "TV-Audio Systems",
+    "cat8": "Home-Life",
+    "cat9": "Mommy-Baby-Toy"
   }
 }
