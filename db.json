@@ -196,7 +196,8 @@
     "pc7": "Powerbank",
     "pc8": "Kahve Makineleri",
     "pc9": "Apple Tabletler",
-    "pc10": "Bilgisayarlar"
+    "pc10": "Bilgisayarlar",
+    "soTitle": "Turkcell Faturana Ek Alabileceğin Cihazlar"
   },
   "cms-en": {
     "htFav": "My Favourites",
@@ -231,6 +232,7 @@
     "pc7": "Powerbank",
     "pc8": "Coffee Makers",
     "pc9": "Apple Tablets",
-    "pc10": "Computers"
+    "pc10": "Computers",
+    "soTitle": "Devices You Can Buy Additional to Your Turkcell Bill"
   }
 }
