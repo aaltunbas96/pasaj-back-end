@@ -184,7 +184,8 @@
     "cat6": "Hobi-Oyun",
     "cat7": "TV-Ses Sistemleri",
     "cat8": "Ev-Yaşam",
-    "cat9": "Anne-Bebek-Oyuncak"
+    "cat9": "Anne-Bebek-Oyuncak",
+    "hsButton": "İncele"
   },
   "cms-en": {
     "htFav": "My Favourites",
@@ -207,6 +208,7 @@
     "cat6": "Hobby-Game",
     "cat7": "TV-Audio Systems",
     "cat8": "Home-Life",
-    "cat9": "Mommy-Baby-Toy"
+    "cat9": "Mommy-Baby-Toy",
+    "hsButton": "Review"
   }
 }
