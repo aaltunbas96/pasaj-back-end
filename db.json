@@ -170,7 +170,9 @@
     "htWhy": "Neden Pasaj?",
     "htBlog": "Pasaj Blog",
     "htOrder": "Sipariş Sorgulama",
-    "searchAreaPlaceholder": "Ürün, marka veya kategori ara"
+    "searchAreaPlaceholder": "Ürün, marka veya kategori ara",
+    "loginPlaceholder": "Giriş Yap",
+    "basketPlaceholder": "Sepet"
   },
   "cms-en": {
     "htFav": "My Favourites",
@@ -179,6 +181,8 @@
     "htWhy": "Why Pasaj?",
     "htBlog": "Pasaj Blog",
     "htOrder": "Order Inquiry",
-    "searchAreaPlaceholder": "Search products, brands or categories"
+    "searchAreaPlaceholder": "Search products, brands or categories",
+    "loginPlaceholder": "Login",
+    "basketPlaceholder": "Basket"
   }
 }
