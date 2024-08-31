@@ -162,5 +162,7 @@
       "price": 31750,
       "category": "Beyaz Eşya"
     }
-  ]
+  ],
+  "cms": [{ "title": "başlık" }],
+  "cms-en": [{ "title": "title" }]
 }
