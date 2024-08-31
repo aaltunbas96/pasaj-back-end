@@ -164,11 +164,21 @@
     }
   ],
   "cms": {
-    "title": "başlık",
+    "htFav": "Favorilerim",
+    "htCam": "Kampanyalar",
+    "htHelp": "Yardım",
+    "htWhy": "Neden Pasaj?",
+    "htBlog": "Pasaj Blog",
+    "htOrder": "Sipariş Sorgulama",
     "searchAreaPlaceholder": "Ürün, marka veya kategori ara"
   },
   "cms-en": {
-    "title": "title",
+    "htFav": "My Favourites",
+    "htCam": "Campaigns",
+    "htHelp": "Help",
+    "htWhy": "Why Pasaj?",
+    "htBlog": "Pasaj Blog",
+    "htOrder": "Order Inquiry",
     "searchAreaPlaceholder": "Search products, brands or categories"
   }
 }
