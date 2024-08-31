@@ -197,7 +197,11 @@
     "pc8": "Kahve Makineleri",
     "pc9": "Apple Tabletler",
     "pc10": "Bilgisayarlar",
-    "soTitle": "Turkcell Faturana Ek Alabileceğin Cihazlar"
+    "soTitle": "Turkcell Faturana Ek Alabileceğin Cihazlar",
+    "pCardShopping": "Alışveriş",
+    "pCardCredit": "Kredisi",
+    "pCardFree": "Ücretsiz",
+    "pCardShipping": "Kargo"
   },
   "cms-en": {
     "htFav": "My Favourites",
@@ -233,6 +237,10 @@
     "pc8": "Coffee Makers",
     "pc9": "Apple Tablets",
     "pc10": "Computers",
-    "soTitle": "Devices You Can Buy Additional to Your Turkcell Bill"
+    "soTitle": "Devices You Can Buy Additional to Your Turkcell Bill",
+    "pCardShopping": "Shopping",
+    "pCardCredit": "Credit",
+    "pCardFree": "Free",
+    "pCardShipping": "Shipping"
   }
 }
