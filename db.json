@@ -272,7 +272,8 @@
     "fBoxFollow": "Bizi Takip Edin",
     "fb2": "Tarife Karşılaştırma",
     "fbYear": "© 2024",
-    "fbBrand": "Turkcell"
+    "fbBrand": "Turkcell",
+    "loading": "Yükleniyor..."
   },
   "cms-en": {
     "htFav": "My Favourites",
@@ -383,6 +384,7 @@
     "fBoxFollow": "Follow Us",
     "fb2": "Tariff Comparison",
     "fbYear": "© 2024",
-    "fbBrand": "Turkcell"
+    "fbBrand": "Turkcell",
+    "loading": "Loading..."
   }
 }
