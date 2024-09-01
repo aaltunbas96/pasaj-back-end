@@ -270,7 +270,9 @@
     "fLangAr": "عربى",
     "fLangRu": "русский",
     "fBoxFollow": "Bizi Takip Edin",
-    "fb2": "Tarife Karşılaştırma"
+    "fb2": "Tarife Karşılaştırma",
+    "fbYear": "© 2024",
+    "fbBrand": "Turkcell"
   },
   "cms-en": {
     "htFav": "My Favourites",
@@ -379,6 +381,8 @@
     "fLangAr": "عربى",
     "fLangRu": "русский",
     "fBoxFollow": "Follow Us",
-    "fb2": "Tariff Comparison"
+    "fb2": "Tariff Comparison",
+    "fbYear": "© 2024",
+    "fbBrand": "Turkcell"
   }
 }
